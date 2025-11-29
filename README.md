@@ -38,7 +38,7 @@ One of the most powerful features of **`f`** is its interactivity, which works b
 > **Note:** This clickable link functionality relies on specific escape sequences supported by modern terminal emulators and **will not work** in older environments like pure Command Prompt (`cmd.exe`) or basic PowerShell consoles.
 
 ### 💨 Command Simplicity
-The entire tool is aliased to the single letter **`f`**, which is highly mnemonic (for 'File' or 'Find') and quick to type.
+* The entire tool is aliased to the single letter **`f`**, which is highly mnemonic (for 'File' or 'Find') and quick to type.
 ---
 
 ## 🤝 Contribution & Icon Expansion
