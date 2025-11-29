@@ -19,7 +19,7 @@ While Unix-like systems have powerful, aesthetically pleasing tools like `lsd` a
 
 ## 🖼️ Demo
 See the difference for yourself!
-![Demo for f](./pictures/image.png)
+![Demo for f](https://github.com/Joel-Shine/f/blob/main/demo.png)
 
 ---
 
