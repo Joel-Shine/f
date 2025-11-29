@@ -1,4 +1,4 @@
-# 🔍 f
+<h1 align="center"> f </h1>
 
 ## ✨ Overview
 **`f`** is a command-line utility designed to replace the standard, monochromatic `ls` (Linux/macOS) or `dir` (Windows) commands with a beautiful, colorful, and interactive directory listing.
