@@ -15,9 +15,9 @@ ORIGINALLY WRITTEN IN PYTHON! REMAPPED IN C !
 
 ## Getting Started
 These are the links to markdown files for different systems, choose yours and enjoy!
-Mac - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/mac.md)
-Windows - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/win.md)
-Linux - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/lin.md)
+* Mac - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/mac.md)
+* Windows - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/win.md)
+* Linux - [Setup](https://github.com/Joel-Shine/f/blob/main/docs/lin.md)
 
 ---
 
