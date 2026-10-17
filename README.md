@@ -5,10 +5,19 @@
 
 Tired of the basic text output? **`f`** takes your directory listing to the next level by adding:
 * **Vibrant Colors** for file types and metadata.
-* **Intuitive Icons** for nearly every common file extension and folder type.
+* **$O(1)$ Icon Lookups:** Powered by `gperf`, file extension matching is resolved via a mathematically perfect hash table at compile-time. Zero collisions, zero linear searching.
 * **Interactivity** where listed files and folders act as clickable links (in modern terminals).
 
 The simplicity of the command—just the letter `f`—makes it easy to remember and fast to use, especially when added to your system's PATH.
+ORIGINALLY WRITTEN IN PYTHON! REMAPPED IN C !
+
+---
+
+## Getting Started
+These are the links to markdown files for different systems, choose yours and enjoy!
+Mac - 
+Windows - 
+Linux - 
 
 ---
 
